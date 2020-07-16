@@ -1,0 +1,12 @@
+/Users/sheemakhan/development/projects/C#/choose-your-own-adventure/bin/Debug/netcoreapp3.1/choose-your-own-adventure.deps.json
+/Users/sheemakhan/development/projects/C#/choose-your-own-adventure/bin/Debug/netcoreapp3.1/choose-your-own-adventure.runtimeconfig.json
+/Users/sheemakhan/development/projects/C#/choose-your-own-adventure/bin/Debug/netcoreapp3.1/choose-your-own-adventure.runtimeconfig.dev.json
+/Users/sheemakhan/development/projects/C#/choose-your-own-adventure/bin/Debug/netcoreapp3.1/choose-your-own-adventure.dll
+/Users/sheemakhan/development/projects/C#/choose-your-own-adventure/bin/Debug/netcoreapp3.1/choose-your-own-adventure.pdb
+/Users/sheemakhan/development/projects/C#/choose-your-own-adventure/obj/Debug/netcoreapp3.1/choose-your-own-adventure.csprojAssemblyReference.cache
+/Users/sheemakhan/development/projects/C#/choose-your-own-adventure/obj/Debug/netcoreapp3.1/choose-your-own-adventure.AssemblyInfoInputs.cache
+/Users/sheemakhan/development/projects/C#/choose-your-own-adventure/obj/Debug/netcoreapp3.1/choose-your-own-adventure.AssemblyInfo.cs
+/Users/sheemakhan/development/projects/C#/choose-your-own-adventure/obj/Debug/netcoreapp3.1/choose-your-own-adventure.csproj.CoreCompileInputs.cache
+/Users/sheemakhan/development/projects/C#/choose-your-own-adventure/obj/Debug/netcoreapp3.1/choose-your-own-adventure.dll
+/Users/sheemakhan/development/projects/C#/choose-your-own-adventure/obj/Debug/netcoreapp3.1/choose-your-own-adventure.pdb
+/Users/sheemakhan/development/projects/C#/choose-your-own-adventure/obj/Debug/netcoreapp3.1/choose-your-own-adventure.genruntimeconfig.cache
